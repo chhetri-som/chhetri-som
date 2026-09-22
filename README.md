@@ -4,15 +4,17 @@
 
 ## About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7922E&multiline=true&width=435&lines=since+childhood%2C+all+i+wanted+to+do+was+;maximise+shareholder+value...+ahaha" alt="Typing SVG" />
-</div><br>
-
 Computer Science undergraduate with junior-level experience across AI/ML and full-stack
 development. Comfortable moving between research-style work and shipping production-style web
 applications.
 
-**Current Focus:** Exploring AI-driven automation, cloud-native architectures, and software developement.
+**Current Focus:** Exploring AI-driven automation, cloud-native architectures, and software development.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=F7C218&multiline=true&width=435&lines=100%25+committed+to+maximize;your+shareholder+value" alt="Typing SVG" />
+  <img src="assets/saul.gif" alt="Saul GIF" width="150px"/>
+</div>
+
 
 <br><br>
 
