@@ -11,7 +11,7 @@ applications.
 **Current Focus:** Exploring AI-driven automation, cloud-native architectures, and software development.
 
 <div align="center">
-  <img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7C218&multiline=true&width=435&lines=100%25+committed+to+maximize;your+shareholder+value" alt="Typing SVG" />
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7C218&multiline=true&width=435&lines=100%25+committed+to+maximize;Your+shareholder+value" alt="Typing SVG" />
   <img align="top" src="assets/saul.gif" alt="Saul GIF" width="150px" />
 </div>
 
