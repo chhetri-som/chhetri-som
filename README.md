@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffffff&section=header&reversal=false&text=Anish+Chhetri&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=Developer&descSize=23&descAlign=50&descAlignY=65" width="80%" />
 </div>
 
----
 ## About Me
 
 Computer Science undergraduate with junior-level experience across AI/ML and full-stack
@@ -12,14 +11,13 @@ applications.
 **Current Focus:** Exploring AI-driven automation, cloud-native architectures, and software development.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=F7C218&multiline=true&width=435&lines=100%25+committed+to+maximize;your+shareholder+value" align="left" alt="Typing SVG" />
-  <img src="assets/saul.gif" align="right" alt="Saul GIF" width="150px"/>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7C218&multiline=true&width=435&lines=100%25+committed+to+maximize;your+shareholder+value" alt="Typing SVG" />
+  <img align="top" src="assets/saul.gif" alt="Saul GIF" width="150px" />
 </div>
 
+<br>
 
-<br><br>
-
-### Strategic Development Areas
+## Strategic Development Areas
 
 ```mermaid
 mindmap
